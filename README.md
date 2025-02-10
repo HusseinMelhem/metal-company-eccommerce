@@ -1,2 +1,5 @@
 # metal-company-eccommerce
-a clothing ecommerce website using html css javascript ]php and sql with home browsing cart checkout and full admin page
+A metal selling store that lists the available items from the
+company so they can browse and see the items listed also an 
+admo=in page to add items dyanmicly uses html css javascript php 
+and sql
