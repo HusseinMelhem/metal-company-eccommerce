@@ -1,0 +1,125 @@
+[31-Jul-2024 07:50:51 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 07:55:43 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'fnmmallc_fnmmallc'@'localhost' to database 'fnmmallc_mega-metal' in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 07:59:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown server host 'db.mega-metal-international.com' (-2) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:00:56 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_fnmmallc'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:25 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:27 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:31 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 08:02:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 10:03:09 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 13:06:08 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 13:38:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 13:45:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 13:45:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 13:45:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 14:39:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 14:39:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 14:39:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 15:22:27 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:06:27 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:27:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:27:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:08 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:29:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 18:30:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'fnmmallc_mega-metal'@'iuliapuiu.com' (using password: YES) in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[31-Jul-2024 21:08:39 UTC] PHP Warning:  move_uploaded_file(uploads/Screenshot 2024-03-03 154508.png): failed to open stream: No such file or directory in /home/fnmmallc/mega-metal-international.com/add_item.php on line 53
+[31-Jul-2024 21:08:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplQrg1s' to 'uploads/Screenshot 2024-03-03 154508.png' in /home/fnmmallc/mega-metal-international.com/add_item.php on line 53
+[31-Jul-2024 22:03:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/fnmmallc/mega-metal-international.com/item_details.php on line 3
+[31-Jul-2024 22:05:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/fnmmallc/mega-metal-international.com/item_details.php on line 3
+[31-Jul-2024 22:05:21 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/fnmmallc/mega-metal-international.com/item_details.php on line 3
+[31-Jul-2024 22:05:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/fnmmallc/mega-metal-international.com/item_details.php on line 3
+[31-Jul-2024 22:07:06 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/fnmmallc/mega-metal-international.com/item_details.php on line 3
+[31-Jul-2024 22:07:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/fnmmallc/mega-metal-international.com/item_details.php on line 3
+[31-Jul-2024 22:07:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/fnmmallc/mega-metal-international.com/item_details.php on line 3
+[01-Aug-2024 10:42:30 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/fnmmallc/mega-metal-international.com/add_item.php on line 87
+[01-Aug-2024 10:43:35 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/fnmmallc/mega-metal-international.com/add_item.php on line 86
+[01-Aug-2024 10:45:39 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/fnmmallc/mega-metal-international.com/add_item.php on line 86
+[06-Aug-2024 09:09:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/fnmmallc/mega-metal-international.com/add_item.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/add_item.php on line 86
+[18-Aug-2024 12:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[07-Sep-2024 04:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[11-Sep-2024 16:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[16-Sep-2024 05:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[06-Oct-2024 19:32:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'core7.spatiul.ro' is not allowed to connect to this MariaDB server in /home/fnmmallc/mega-metal-international.com/db.php on line 7
+[19-Oct-2024 10:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[19-Oct-2024 10:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[25-Oct-2024 15:29:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[25-Oct-2024 15:29:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[07-Nov-2024 21:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[08-Nov-2024 22:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[12-Nov-2024 00:07:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[13-Nov-2024 03:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/fnmmallc/mega-metal-international.com/item_details.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/fnmmallc/mega-metal-international.com/item_details.php on line 9
+[15-Jan-2025 08:56:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'core7.spatiul.ro' is not allowed to connect to this MariaDB server in /home/fnmmallc/mega-metal-international.com/db.php on line 7
